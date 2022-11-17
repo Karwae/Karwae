@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif)](https://denys-radysh.io)
+[![MasterHead](https://i.pinimg.com/originals/59/c8/cf/59c8cf9d35f8ea6dd6ae7cd9ff6cb054.gif)](https://denys-radysh.io)
 <h1 align="center">Hi 👋, I'm Denys Radysh</h1>
 <h3 align="center">Frontend Developer</h3>
 <div width="350" style="overflow:hidden; border-radius: 20px;">
