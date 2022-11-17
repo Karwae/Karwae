@@ -1,4 +1,4 @@
-[![MasterHead](https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp)](https://Denys-Radysh.io)
+
 <h1 align="center">Hi 👋, I'm Denys Radysh</h1>
 <h3 align="center">Frontend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
@@ -14,6 +14,10 @@
 - 💬 Ask me about **HTML, CSS, WordPress, JS, JQuery, Material Ui, React**
 
 - 📫 How to reach me **radsdenys@gmail.com**
+
+- 📫 My Telegram **t.me/denys_radysh**
+
+- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/denis-radysh/" height="24px" width="18" /> **<a href="https://linkedin.com/in/https://www.linkedin.com/in/denis-radysh/" target="blank">denis-radysh<a>** 
 
 - ⚡ Fun fact **Probably I must to write something jokes here, but you can just to view vacancies Frontend Developer. It's really funny)**
 
