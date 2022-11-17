@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karwae&label=Profile%20views&color=0e75b6&style=flat" alt="karwae" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karwae" alt="karwae" /></a> </p>
-
 - 🌱 I’m currently learning **React, TypeScript, Redux**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Karwae](https://github.com/Karwae)
@@ -15,9 +13,9 @@
 
 - 📫 How to reach me **radsdenys@gmail.com**
 
-- ![image](https://user-images.githubusercontent.com/80789947/202480080-afcfcd6d-e519-4ab5-9f60-a740d2eb84a3.png) My Telegram **a href="https://t.me/denys_radysh" target="blank"> denis-radysh <a>**
+- 📫 My Telegram **<a href="https://t.me/denys_radysh" target="blank"> denis-radysh </a>**
 
-- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/denis-radysh/" height="24px" width="18" />  **<a href="https://linkedin.com/in/https://www.linkedin.com/in/denis-radysh/" target="blank">denis-radysh<a>** 
+- 📫 My LinkedIn **<a href="https://www.linkedin.com/in/denis-radysh/" target="blank"> denis-radysh </a>** 
 
 - ⚡ Fun fact **Probably I must to write something jokes here, but you can just to view vacancies Frontend Developer. It's really funny)**
 
