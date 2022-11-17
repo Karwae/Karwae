@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Denys Radysh</h1>
 <h3 align="center">Frontend Developer</h3>
-<img align="right" alt="Coding" width="400" style="border-radius:20px;" src="https://cdn.abo.media/upload/article/o_1ejcq6d681a7qvr6km12ni1a0b1k.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.abo.media/upload/article/o_1ejcq6d681a7qvr6km12ni1a0b1k.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karwae&label=Profile%20views&color=0e75b6&style=flat" alt="karwae" /> </p>
 
