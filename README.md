@@ -1,8 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Denys Radysh</h1>
 <h3 align="center">Frontend Developer</h3>
+<div width="350" style="overflow:hidden; border-radius: 20px;">
 <img align="right" alt="Coding" width="350" src="https://cdn.abo.media/upload/article/o_1ejcq6d681a7qvr6km12ni1a0b1k.gif">
-
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karwae&label=Profile%20views&color=0e75b6&style=flat" alt="karwae" /> </p>
 
 - 🌱 I’m currently learning **React, TypeScript, Redux**
