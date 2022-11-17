@@ -15,9 +15,9 @@
 
 - 📫 How to reach me **radsdenys@gmail.com**
 
-- 📫 My Telegram **t.me/denys_radysh**
+- ![image](https://user-images.githubusercontent.com/80789947/202480080-afcfcd6d-e519-4ab5-9f60-a740d2eb84a3.png) My Telegram **a href="https://t.me/denys_radysh" target="blank"> denis-radysh <a>**
 
-- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/denis-radysh/" height="24px" width="18" /> **<a href="https://linkedin.com/in/https://www.linkedin.com/in/denis-radysh/" target="blank">denis-radysh<a>** 
+- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/denis-radysh/" height="24px" width="18" />  **<a href="https://linkedin.com/in/https://www.linkedin.com/in/denis-radysh/" target="blank">denis-radysh<a>** 
 
 - ⚡ Fun fact **Probably I must to write something jokes here, but you can just to view vacancies Frontend Developer. It's really funny)**
 
