@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Denys Radysh</h1>
 <h3 align="center">Frontend Developer</h3>
-<img align="right" alt="Coding" width="400" style="border-radius:20px;" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-1,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
+<img align="right" alt="Coding" width="400" style="border-radius:20px;" src="https://cdn.abo.media/upload/article/o_1ejcq6d681a7qvr6km12ni1a0b1k.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karwae&label=Profile%20views&color=0e75b6&style=flat" alt="karwae" /> </p>
 
