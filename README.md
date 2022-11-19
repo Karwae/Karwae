@@ -1,4 +1,4 @@
-[![MasterHead](https://c10.patreonusercontent.com/4/patreon-media/p/post/74808387/a5edb15933af423e9abdaf8e8d48f41b/eyJlbmFibGVfZ2lmX3RyYW5zZm9ybSI6MSwidyI6NjIwfQ%3D%3D/1.gif?token-time=1670025600&token-hash=hZRLVzY5vCTAQJWE-lBAUTV7IjFMEBcGSczUg5W6wZk%3D)](https://denys-radysh.io)
+[![MasterHead](https://mail.google.com/mail/u/2?ui=2&ik=e137b7f9ec&attid=0.1&permmsgid=msg-f:1749921476209300122&th=1848f84fa648529a&view=fimg&realattid=ii_lant941o0&disp=thd&attbid=ANGjdJ88x9MV13dSMBObgfpnpg3KEMlonGNKqpJsH0JwCIwFkFPz1W3_siHBRMkeXfFPfauic_mbmNyE7Oxmjqh7xEFYPoYvK9n1MTjc1xfzHwo5yyHqCGhH8WnBdnE&ats=2524608000000&sz=w1822-h920)](https://denys-radysh.io)
 <h1 align="center">Hi 👋, I'm Denys Radysh</h1>
 <h3 align="center">Frontend Developer</h3>
 <div width="350" style="overflow:hidden; border-radius: 20px;">
