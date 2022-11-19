@@ -1,4 +1,4 @@
-[![MasterHead](https://media1.giphy.com/media/Uam4GZWEV4OiSjEpDH/giphy.gif?cid=790b7611fd6716273ef761a860e8803d27fc29662bb65114&rid=giphy.gif&ct=g)](https://denys-radysh.io)
+[![MasterHead](https://c10.patreonusercontent.com/4/patreon-media/p/post/74808387/a5edb15933af423e9abdaf8e8d48f41b/eyJlbmFibGVfZ2lmX3RyYW5zZm9ybSI6MSwidyI6NjIwfQ%3D%3D/1.gif?token-time=1670025600&token-hash=hZRLVzY5vCTAQJWE-lBAUTV7IjFMEBcGSczUg5W6wZk%3D)](https://denys-radysh.io)
 <h1 align="center">Hi 👋, I'm Denys Radysh</h1>
 <h3 align="center">Frontend Developer</h3>
 <div width="350" style="overflow:hidden; border-radius: 20px;">
