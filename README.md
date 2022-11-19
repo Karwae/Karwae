@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.gfycat.com/LikableUnacceptableIguanodon-size_restricted.gif)](https://denys-radysh.io)
+[![MasterHead]([https://thumbs.gfycat.com/LikableUnacceptableIguanodon-size_restricted.gif](https://thumbs.gfycat.com/LikableUnacceptableIguanodon-size_restricted.gif))](https://denys-radysh.io)
 <h1 align="center">Hi 👋, I'm Denys Radysh</h1>
 <h3 align="center">Frontend Developer</h3>
 <div width="350" style="overflow:hidden; border-radius: 20px;">
